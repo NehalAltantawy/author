@@ -1,0 +1,97 @@
+body
+{
+    background: url(../img/IMG_20200423_025608_042.jpg) repeat scroll 0 0;
+    background-size: cover;
+    height: 800px;
+    overflow: auto;
+}
+.parent
+{   
+    width: auto;
+    height: 600px;
+    background-color: white;
+    margin: 100px 200px 10px;
+    text-align: center;
+}
+.child1
+{
+    width: 40%;
+    height: 100%;
+    background-color: darkgoldenrod;
+    color: white;
+    line-height: 100px;
+    display: inline-block;
+}
+.child2
+{
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    float: right;
+    display: inline-block;
+
+}
+
+.p1
+{
+    line-height: 5px;
+    text-align: left;
+    text-indent: 100px;
+}
+
+.s2,.s3
+{
+    color:#0dbf4a;
+}
+form
+{
+    margin: 70px 80px 20px;
+    text-align: left;
+    color: gray;
+    /* font-size: 20px; */
+}
+.n1
+{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid;
+    border-bottom-color: gray;
+    border-bottom-width: thin;
+    width: 400px;
+    font-size: 18px;
+    margin-bottom: 51px;
+}
+.i1
+{
+    background-color: green;
+    color: white;
+    width: 135px;
+    height: 35px;
+    font-size: 15px;
+    border: 0 ;
+}
+.h
+{
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: left;
+    text-indent: 100px;
+}
+.p2
+{
+     text-align: left;
+    text-indent: 100px;
+}
+.p3
+{
+     text-align: left;
+    text-indent: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.c
+{
+    width: 25px;
+}
+    
